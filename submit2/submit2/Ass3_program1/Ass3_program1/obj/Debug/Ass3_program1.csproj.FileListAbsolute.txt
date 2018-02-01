@@ -1,0 +1,6 @@
+c:\users\kripajha\documents\visual studio 2017\Projects\Ass3_program1\Ass3_program1\bin\Debug\Ass3_program1.exe.config
+c:\users\kripajha\documents\visual studio 2017\Projects\Ass3_program1\Ass3_program1\bin\Debug\Ass3_program1.exe
+c:\users\kripajha\documents\visual studio 2017\Projects\Ass3_program1\Ass3_program1\bin\Debug\Ass3_program1.pdb
+c:\users\kripajha\documents\visual studio 2017\Projects\Ass3_program1\Ass3_program1\obj\Debug\Ass3_program1.csprojResolveAssemblyReference.cache
+c:\users\kripajha\documents\visual studio 2017\Projects\Ass3_program1\Ass3_program1\obj\Debug\Ass3_program1.exe
+c:\users\kripajha\documents\visual studio 2017\Projects\Ass3_program1\Ass3_program1\obj\Debug\Ass3_program1.pdb

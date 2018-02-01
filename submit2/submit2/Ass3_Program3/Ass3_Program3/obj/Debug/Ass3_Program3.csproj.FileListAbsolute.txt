@@ -1,0 +1,5 @@
+c:\users\kripajha\documents\visual studio 2017\Projects\Ass3_Program3\Ass3_Program3\bin\Debug\Ass3_Program3.exe.config
+c:\users\kripajha\documents\visual studio 2017\Projects\Ass3_Program3\Ass3_Program3\bin\Debug\Ass3_Program3.exe
+c:\users\kripajha\documents\visual studio 2017\Projects\Ass3_Program3\Ass3_Program3\bin\Debug\Ass3_Program3.pdb
+c:\users\kripajha\documents\visual studio 2017\Projects\Ass3_Program3\Ass3_Program3\obj\Debug\Ass3_Program3.exe
+c:\users\kripajha\documents\visual studio 2017\Projects\Ass3_Program3\Ass3_Program3\obj\Debug\Ass3_Program3.pdb
